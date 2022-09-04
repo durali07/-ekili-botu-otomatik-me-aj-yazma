@@ -1,1 +1,1 @@
-# -ekili-botu-otomatik-me-aj-yazma
+çekiliş botu otomatik meşaj yazma
